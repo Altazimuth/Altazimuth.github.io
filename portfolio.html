@@ -21,7 +21,17 @@ make-smaller-titles: true
 
           <li>
             <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            <small class="hidden-xs">{{ post.date | date: "%B %-d, %Y" }}</small>
+            <small class="hidden-xs">
+            {% if post.enddate %}
+              from
+            {% else %}
+              since
+            {% endif %}
+            {{ post.startdate | date: "%B %-d, %Y" }}
+            {% if post.enddate %}
+              to {{ post.enddate | date: "%B %-d, %Y" }}
+            {% endif %}
+            </small>
           </li>
       {% if forloop.last %}
         </ul>
