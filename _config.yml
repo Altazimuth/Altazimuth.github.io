@@ -32,3 +32,9 @@ kramdown:
 
 permalink: pretty
 exclude: [vendor]
+
+collections:
+  portfolio:
+    output: true
+    values:
+      layout: portfolio
