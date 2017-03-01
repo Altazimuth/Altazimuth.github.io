@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/altazimuth
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mwaine.com
+  * I am altazimuth (https://keybase.io/altazimuth) on keybase.
+  * I have a public key ASAf0yXk2ynw6V_KDetupK6OwAtabJqPZjt0HK4ooTtkDgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01201fd325e4db29f0e95fca0deb6ea4ae8ec00b5a6c9a8f663b741cae28a13b640e0a",
+            "host": "keybase.io",
+            "kid": "01201fd325e4db29f0e95fca0deb6ea4ae8ec00b5a6c9a8f663b741cae28a13b640e0a",
+            "uid": "4f65366cd1fad3eb1fd1dfad697b9019",
+            "username": "altazimuth"
+        },
+        "service": {
+            "hostname": "mwaine.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1488402872,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1488402840,
+        "hash": "cd456d1241a26044052e977b9cca9f3a0dbfcb4cf357093a6bfbcdd38e00b35fed7a9df35699d766364acc20243fbae3a73a1db59562a3026149f4fd0e234ee6",
+        "seqno": 933044
+    },
+    "prev": "9a49831107054c6f3ba5b8b12ada46918d842ac8faf17ebb22e62ea59e3b6036",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgH9Ml5Nsp8Olfyg3rbqSujsALWmyaj2Y7dByuKKE7ZA4Kp3BheWxvYWTFAvN7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMWZkMzI1ZTRkYjI5ZjBlOTVmY2EwZGViNmVhNGFlOGVjMDBiNWE2YzlhOGY2NjNiNzQxY2FlMjhhMTNiNjQwZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMWZkMzI1ZTRkYjI5ZjBlOTVmY2EwZGViNmVhNGFlOGVjMDBiNWE2YzlhOGY2NjNiNzQxY2FlMjhhMTNiNjQwZTBhIiwidWlkIjoiNGY2NTM2NmNkMWZhZDNlYjFmZDFkZmFkNjk3YjkwMTkiLCJ1c2VybmFtZSI6ImFsdGF6aW11dGgifSwic2VydmljZSI6eyJob3N0bmFtZSI6Im13YWluZS5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE4In0sImN0aW1lIjoxNDg4NDAyODcyLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0ODg0MDI4NDAsImhhc2giOiJjZDQ1NmQxMjQxYTI2MDQ0MDUyZTk3N2I5Y2NhOWYzYTBkYmZjYjRjZjM1NzA5M2E2YmZiY2RkMzhlMDBiMzVmZWQ3YTlkZjM1Njk5ZDc2NjM2NGFjYzIwMjQzZmJhZTNhNzNhMWRiNTk1NjJhMzAyNjE0OWY0ZmQwZTIzNGVlNiIsInNlcW5vIjo5MzMwNDR9LCJwcmV2IjoiOWE0OTgzMTEwNzA1NGM2ZjNiYTViOGIxMmFkYTQ2OTE4ZDg0MmFjOGZhZjE3ZWJiMjJlNjJlYTU5ZTNiNjAzNiIsInNlcW5vIjo4LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQPE9m58kJArxutIL7nN0UBDu8eGVZ/FTmE24DTbnQRrIrOidO0tphtjmh67VdSXNkxyNVLJjcalGqV9g6RFqXAWoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAJt12D9GDJPHY1uGAdMP4aofkYI1hWiz2Qg64AhciG9aN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/altazimuth
+
+==================================================================
