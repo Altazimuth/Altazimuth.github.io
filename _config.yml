@@ -9,15 +9,11 @@ title_image: "https://avatars1.githubusercontent.com/u/5298767?v=3&s=466"
 google_analytics: "UA-84601634-1"
 disqus_account: mwaine-com
 github_repository: https://github.com/Altazimuth/Altazimuth.github.io
-#addthis_id: ra-513c6fa83da6ec67
 post_limit: 5
 
 # Social usernames/URLs
 twitter_username: AltazimuthEE
 github_username:  Altazimuth
-#linkedin_link: http://foo.bar.baz/
-#google_plus_link: http://foo.bar.baz/
-#stackoverflow_link: http://foo.bar.baz/
 
 # Footer
 footer_left: "Made by Max Waine using <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson's</a> Carte Noire theme"
